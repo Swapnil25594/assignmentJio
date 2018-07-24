@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo": {
+    "host": "ds137687.mlab.com",
+    "port": 37687,
+    "url": "mongodb://jiotestmongo:swapnil123@ds137687.mlab.com:37687/interestiot",
+    "database": "interestiot",
+    "password": "test123",
+    "name": "mongo",
+    "user": "jiotest",
+    "connector": "mongodb"
+  }
+}
