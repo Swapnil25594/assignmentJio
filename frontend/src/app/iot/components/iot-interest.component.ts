@@ -131,7 +131,7 @@ export class IOTInterestComponent implements OnInit {
             this.model = {};
             return;
         }
-        if(this.model.expression = 'undefined'){
+        if(this.model.expression == 'undefined'){
             this.model = {};
             return;
         }
